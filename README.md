@@ -1,2 +1,2 @@
 # TODO-APP-IN-JS-
-Waxaan Ku dhisay To do list in Javacript 
+waxaan ku dhisay Project-gan Javascript iyo Bootstrap
